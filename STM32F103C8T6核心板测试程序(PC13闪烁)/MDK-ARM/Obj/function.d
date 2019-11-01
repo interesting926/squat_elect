@@ -1,0 +1,11 @@
+.\obj\function.o: ..\USER\function.c
+.\obj\function.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\function.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\function.o: D:\softWare\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\function.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\function.o: ..\USER\stm32f10x_conf.h
+.\obj\function.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\function.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\function.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\function.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\function.o: ..\USER\function.h
